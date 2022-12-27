@@ -6,7 +6,7 @@ const removeFromArray = function(/*array, ...toBeRemoved*/...args) {
                 array.splice(i, 1);
                 i = 0;
             }
-        }
+        }1
     }
     return array;
 
